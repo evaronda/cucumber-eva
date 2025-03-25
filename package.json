@@ -1,0 +1,25 @@
+{
+  "name": "cucumber-eva",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evaronda/cucumber-eva.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evaronda/cypress-test-repo-eva/issues"
+  },
+  "homepage": "https://github.com/evaronda/cypress-test-repo-eva#readme",
+  "description": "",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "22.0.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "2.2.4",
+    "cypress": "14.2.0"
+  }
+}
